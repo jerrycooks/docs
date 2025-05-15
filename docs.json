@@ -11,7 +11,31 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Control Center",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "index",
+              "quickstart",
+              "development"
+            ]
+          },
+          {
+            "group": "Essentials",
+            "pages": [
+              "essentials/markdown",
+              "essentials/code",
+              "essentials/images",
+              "essentials/settings",
+              "essentials/navigation",
+              "essentials/reusable-snippets"
+            ]
+          }
+        ]
+      },
+      {
+      "tab": "Control Centr",
         "groups": [
           {
             "group": "Get Started",
@@ -58,12 +82,12 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Practice Tests",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
+          "anchor": "Symposium",
           "href": "https://mintlify.com/community",
           "icon": "slack"
         },
