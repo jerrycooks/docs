@@ -14,9 +14,9 @@
         "tab": "Control Center",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "The GMAT",
             "pages": [
-              "index",
+              "What It Is",
               "quickstart",
               "development"
             ]
