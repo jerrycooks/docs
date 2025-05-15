@@ -11,118 +11,290 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Control Center",
+        "tab": "Orientation",
         "groups": [
           {
-            "group": "The GMAT",
+            "group": "GMAT Labs Orientation & Study Strategies",
             "pages": [
-              "What-It-Is",
-              "quickstart",
-              "development"
+              "welcome-to-gmat-labs",
+              "about-our-lab",
+              "what-is-the-gmat",
+              "gmat-vs-gmat-focus",
+              "gmat-for-phds",
+              "mindset-and-study-approach",
+              "diagnostics-study-plans-resources",
+              "test-day-error-analysis-improvement"
             ]
+          }
+        ],
+        "anchors": [
+          {
+            "anchor": "Practice Tests",
+            "href": "https://mintlify.com/docs",
+            "icon": "book-open-cover"
           },
           {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
+            "anchor": "Symposium",
+            "href": "https://mintlify.com/community",
+            "icon": "slack"
+          },
+          {
+            "anchor": "Blog",
+            "href": "https://mintlify.com/blog",
+            "icon": "newspaper"
           }
         ]
       },
       {
-      "tab": "Quantitative Reasoning Lab",
+        "tab": "Quantitative Reasoning Lab",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Foundations & Core Concepts",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "number-properties",
+              "fractions-decimals-percentages",
+              "ratios-and-proportions",
+              "algebraic-equations",
+              "inequalities",
+              "exponents-and-roots",
+              "algebraic-functions",
+              "word-problem-translation",
+              "rate-word-problems",
+              "set-theory-word-problems",
+              "applied-geometric-principles",
+              "descriptive-statistics",
+              "probability-and-combinatorics"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Problem-Solving Strategies",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "understanding-quant-questions",
+              "systematic-problem-solving",
+              "working-backwards-from-answers",
+              "picking-numbers-strategy",
+              "estimation-and-approximation-techniques",
+              "identifying-patterns-in-quant",
+              "visualizing-quant-problems"
+            ]
+          },
+          {
+            "group": "Common Quant Pitfalls",
+            "pages": [
+              "common-quantitative-mistakes",
+              "avoiding-quantitative-traps"
             ]
           }
-        ]
-      },
-       {
-      "tab": "Verbal Reasoning Lab",
-        "groups": [
+        ],
+        "anchors": [
           {
-            "group": "Get Started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
+            "anchor": "Practice Tests",
+            "href": "https://mintlify.com/docs",
+            "icon": "book-open-cover"
           },
           {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-      "tab": "Data Insights Lab",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
+            "anchor": "Symposium",
+            "href": "https://mintlify.com/community",
+            "icon": "slack"
           },
           {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
+            "anchor": "Blog",
+            "href": "https://mintlify.com/blog",
+            "icon": "newspaper"
           }
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Verbal Reasoning Lab",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Reading Comprehension (RC)",
             "pages": [
-              "api-reference/introduction"
+              "rc-passage-structure-tone-purpose",
+              "rc-passage-types-overview",
+              "rc-main-idea-questions",
+              "rc-detail-and-inference-questions",
+              "rc-application-and-logical-structure-questions",
+              "rc-style-and-tone-questions",
+              "reading-comprehension-strategies"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Critical Reasoning (CR)",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "deconstructing-cr-arguments",
+              "cr-assumption-questions",
+              "cr-strengthen-argument-questions",
+              "cr-weaken-argument-questions",
+              "cr-evaluate-argument-questions",
+              "cr-explain-discrepancy-paradox-questions",
+              "cr-inference-draw-conclusion-questions",
+              "cr-identify-flaw-questions",
+              "cr-method-of-reasoning-boldface-questions",
+              "cr-complete-passage-fill-blank-questions",
+              "common-logical-fallacies-in-cr",
+              "critical-reasoning-strategies"
             ]
+          }
+        ],
+        "anchors": [
+          {
+            "anchor": "Practice Tests",
+            "href": "https://mintlify.com/docs",
+            "icon": "book-open-cover"
+          },
+          {
+            "anchor": "Symposium",
+            "href": "https://mintlify.com/community",
+            "icon": "slack"
+          },
+          {
+            "anchor": "Blog",
+            "href": "https://mintlify.com/blog",
+            "icon": "newspaper"
+          }
+        ]
+      },
+      {
+        "tab": "Data Insights Lab",
+        "groups": [
+          {
+            "group": "Data Sufficiency (DS)",
+            "pages": [
+              "ds-question-format-answer-choices",
+              "ds-core-evaluation-logic",
+              "ds-number-properties-applications",
+              "ds-algebra-applications",
+              "ds-applied-geometry-concepts",
+              "ds-statistics-probability-applications",
+              "ds-common-traps-and-pitfalls",
+              "data-sufficiency-solving-strategies"
+            ]
+          },
+          {
+            "group": "Multi-Source Reasoning (MSR)",
+            "pages": [
+              "msr-analyzing-multiple-data-sources",
+              "msr-synthesizing-information-relationships",
+              "msr-detecting-discrepancies-and-consistencies",
+              "msr-drawing-inferences-from-combined-data",
+              "multi-source-reasoning-strategies"
+            ]
+          },
+          {
+            "group": "Table Analysis (TA)",
+            "pages": [
+              "interpreting-data-tables",
+              "table-sorting-and-filtering-concepts",
+              "calculating-values-and-trends-from-tables",
+              "table-analysis-strategies"
+            ]
+          },
+          {
+            "group": "Graphics Interpretation (GI)",
+            "pages": [
+              "reading-common-graph-types",
+              "understanding-axes-scales-legends-datapoints",
+              "identifying-trends-relationships-outliers-graphs",
+              "graphical-interpolation-and-extrapolation",
+              "graphics-interpretation-strategies"
+            ]
+          },
+          {
+            "group": "Two-Part Analysis (TPA)",
+            "pages": [
+              "tpa-question-format-overview",
+              "solving-quantitative-verbal-mixed-tpa-problems",
+              "two-part-analysis-strategies"
+            ]
+          }
+        ],
+        "anchors": [
+          {
+            "anchor": "Practice Tests",
+            "href": "https://mintlify.com/docs",
+            "icon": "book-open-cover"
+          },
+          {
+            "anchor": "Symposium",
+            "href": "https://mintlify.com/community",
+            "icon": "slack"
+          },
+          {
+            "anchor": "Blog",
+            "href": "https://mintlify.com/blog",
+            "icon": "newspaper"
+          }
+        ]
+      },
+      {
+        "tab": "Advanced Topics Symposium",
+        "groups": [
+          {
+            "group": "Specialized GMAT Discussions",
+            "pages": [
+              "advanced-quantitative-techniques",
+              "complex-verbal-reasoning-scenarios",
+              "data-insights-deep-dive-analysis",
+              "phd-application-gmat-strategy",
+              "linking-gmat-skills-to-research"
+            ]
+          }
+        ],
+        "anchors": [
+          {
+            "anchor": "Practice Tests",
+            "href": "https://mintlify.com/docs",
+            "icon": "book-open-cover"
+          },
+          {
+            "anchor": "Symposium",
+            "href": "https://mintlify.com/community",
+            "icon": "slack"
+          },
+          {
+            "anchor": "Blog",
+            "href": "https://mintlify.com/blog",
+            "icon": "newspaper"
+          }
+        ]
+      },
+      {
+        "tab": "Experiments & Lab Reports Archive",
+        "groups": [
+          {
+            "group": "GMAT Experiments",
+            "pages": [
+              "understanding-gmat-labs-experiments",
+              "quantitative-experiments-catalogue",
+              "verbal-experiments-catalogue",
+              "data-insights-experiments-catalogue"
+            ]
+          },
+          {
+            "group": "My Lab Reports",
+            "pages": [
+              "accessing-your-lab-reports",
+              "interpreting-experiment-feedback",
+              "tracking-your-gmat-progress"
+            ]
+          }
+        ],
+        "anchors": [
+          {
+            "anchor": "Practice Tests",
+            "href": "https://mintlify.com/docs",
+            "icon": "book-open-cover"
+          },
+          {
+            "anchor": "Symposium",
+            "href": "https://mintlify.com/community",
+            "icon": "slack"
+          },
+          {
+            "anchor": "Blog",
+            "href": "https://mintlify.com/blog",
+            "icon": "newspaper"
           }
         ]
       }
