@@ -12,27 +12,69 @@
     "tabs": [
       {
         "tab": "Juice Kickstart",
-        "groups": []
+        "groups": [
+          {
+            "group": "Kickstart Intro",
+            "pages": [
+              "kickstart-intro"
+            ]
+          }
+        ]
       },
       {
         "tab": "Quant Core",
-        "groups": []
+        "groups": [
+          {
+            "group": "Quant Overview",
+            "pages": [
+              "quant-core-overview"
+            ]
+          }
+        ]
       },
       {
         "tab": "Verbal Core",
-        "groups": []
+        "groups": [
+          {
+            "group": "Verbal Overview",
+            "pages": [
+              "verbal-core-overview"
+            ]
+          }
+        ]
       },
       {
         "tab": "DI Core",
-        "groups": []
+        "groups": [
+          {
+            "group": "DI Overview",
+            "pages": [
+              "di-core-overview"
+            ]
+          }
+        ]
       },
       {
         "tab": "Adv. Symposium",
-        "groups": []
+        "groups": [
+          {
+            "group": "Symposium Intro",
+            "pages": [
+              "symposium-intro"
+            ]
+          }
+        ]
       },
       {
         "tab": "Practice Center",
-        "groups": []
+        "groups": [
+          {
+            "group": "Practice Overview",
+            "pages": [
+              "practice-center-overview"
+            ]
+          }
+        ]
       }
     ]
   },
