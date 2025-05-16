@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Juice Kickstart",
+        "tab": "GMAT Juice Kickstart",
         "groups": [
           {
-            "group": "Kickstart Intro",
+            "group": "Kickstart Introduction",
             "pages": [
               "kickstart-intro"
             ]
@@ -22,10 +22,10 @@
         ]
       },
       {
-        "tab": "Quant Core",
+        "tab": "Quantitative Reasoning",
         "groups": [
           {
-            "group": "Quant Overview",
+            "group": "Quantitative Overview",
             "pages": [
               "quant-core-overview"
             ]
@@ -33,7 +33,7 @@
         ]
       },
       {
-        "tab": "Verbal Core",
+        "tab": "Verbal Reasoning",
         "groups": [
           {
             "group": "Verbal Overview",
@@ -44,10 +44,10 @@
         ]
       },
       {
-        "tab": "DI Core",
+        "tab": "Data Insights",
         "groups": [
           {
-            "group": "DI Overview",
+            "group": "Data Insights Overview",
             "pages": [
               "di-core-overview"
             ]
@@ -55,10 +55,10 @@
         ]
       },
       {
-        "tab": "Adv. Symposium",
+        "tab": "Advanced Symposium",
         "groups": [
           {
-            "group": "Symposium Intro",
+            "group": "Symposium Introduction",
             "pages": [
               "symposium-intro"
             ]
@@ -66,7 +66,7 @@
         ]
       },
       {
-        "tab": "Practice Center",
+        "tab": "Practice & Progress",
         "groups": [
           {
             "group": "Practice Overview",
@@ -80,19 +80,9 @@
     "global": {
       "anchors": [
         {
-          "anchor": "What is GMAT Juice?",
-          "href": "https://example.com/why-gmat-juice",
-          "icon": "help-circle"
-        },
-        {
-          "anchor": "The Juicebox (Members)",
-          "href": "https://example.com/juicebox",
-          "icon": "zap"
-        },
-        {
-          "anchor": "Contact Support",
-          "href": "https://example.com/contact-support",
-          "icon": "mail"
+          "anchor": "My Stats & Reports",
+          "href": "https://example.com/my-stats",
+          "icon": "bar-chart-2"
         }
       ]
     }
