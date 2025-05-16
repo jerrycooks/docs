@@ -7,99 +7,19 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
-        "tab": "Juice Kickstart",
+        "tab": "Test Tab",
         "groups": [
           {
-            "group": "Welcome",
+            "group": "Test Group",
             "pages": [
-              "about-gmat-focus-edition",
-              "why-gmat-juice"
+              "test-page"
             ]
-          },
-          {
-            "group": "Your Journey",
-            "pages": [
-              "initial-score-review-analysis",
-              "ai-custom-study-plan",
-              "navigating-the-juice-and-juicebox"
-            ]
-          },
-          {
-            "group": "Skills & Mindset",
-            "pages": [
-              "effective-learning-techniques",
-              "mastering-time-management",
-              "art-of-error-analysis",
-              "test-day-strategies-mindset",
-              "complementing-official-prep"
-            ]
-          }
-        ],
-        "anchors": [
-          {
-            "anchor": "Why GMAT Juice?",
-            "href": "https://example.com/why-gmat-juice",
-            "icon": "sparkles"
-          },
-          {
-            "anchor": "Create Your Study Plan",
-            "href": "https://example.com/ai-custom-study-plan",
-            "icon": "calendar"
-          },
-          {
-            "anchor": "Official GMAT Site",
-            "href": "https://www.mba.com/gmat-focus-edition",
-            "icon": "external-link"
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "What is GMAT Juice?",
-          "href": "https://example.com/why-gmat-juice",
-          "icon": "help-circle"
-        },
-        {
-          "anchor": "The Juicebox (Members)",
-          "href": "https://example.com/juicebox",
-          "icon": "zap"
-        },
-        {
-          "anchor": "Contact Support",
-          "href": "https://example.com/contact-support",
-          "icon": "mail"
-        }
-      ]
-    }
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:support@gmatjuice.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "My Juicebox",
-      "href": "https://dashboard.gmatjuice.com" 
-    }
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/gmatjuice",
-      "github": "https://github.com/gmatjuice",
-      "linkedin": "https://linkedin.com/company/gmatjuice"
-    }
+    ]
   }
 }
