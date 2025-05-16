@@ -11,15 +11,28 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Test Tab",
-        "groups": [
-          {
-            "group": "Test Group",
-            "pages": [
-              "test-page"
-            ]
-          }
-        ]
+        "tab": "Juice Kickstart",
+        "groups": []
+      },
+      {
+        "tab": "Quant Core",
+        "groups": []
+      },
+      {
+        "tab": "Verbal Core",
+        "groups": []
+      },
+      {
+        "tab": "DI Core",
+        "groups": []
+      },
+      {
+        "tab": "Adv. Symposium",
+        "groups": []
+      },
+      {
+        "tab": "Practice Center",
+        "groups": []
       }
     ]
   },
