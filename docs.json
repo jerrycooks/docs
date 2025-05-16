@@ -19,23 +19,6 @@
               "kickstart-intro"
             ]
           }
-        ],
-        "anchors": [
-          {
-            "anchor": "Why GMAT Juice?",
-            "href": "https://example.com/kickstart/why-gmat-juice",
-            "icon": "sparkles"
-          },
-          {
-            "anchor": "Your Study Plan",
-            "href": "https://example.com/kickstart/study-plan",
-            "icon": "calendar"
-          },
-          {
-            "anchor": "GMAT Focus FAQ",
-            "href": "https://example.com/kickstart/gmat-focus-faq",
-            "icon": "help-circle"
-          }
         ]
       },
       {
@@ -46,23 +29,6 @@
             "pages": [
               "quant-core-overview"
             ]
-          }
-        ],
-        "anchors": [
-          {
-            "anchor": "Quant Formulas",
-            "href": "https://example.com/quant-core/formulas",
-            "icon": "file-text"
-          },
-          {
-            "anchor": "Math Review",
-            "href": "https://example.com/quant-core/math-review",
-            "icon": "book"
-          },
-          {
-            "anchor": "Quant Problem Types",
-            "href": "https://example.com/quant-core/problem-types",
-            "icon": "bar-chart-2"
           }
         ]
       },
@@ -75,23 +41,6 @@
               "verbal-core-overview"
             ]
           }
-        ],
-        "anchors": [
-          {
-            "anchor": "RC Strategies",
-            "href": "https://example.com/verbal-core/rc-strategies",
-            "icon": "book-open"
-          },
-          {
-            "anchor": "CR Logic Guide",
-            "href": "https://example.com/verbal-core/cr-logic",
-            "icon": "zap"
-          },
-          {
-            "anchor": "Key Verbal Concepts",
-            "href": "https://example.com/verbal-core/concepts",
-            "icon": "edit-2"
-          }
         ]
       },
       {
@@ -102,23 +51,6 @@
             "pages": [
               "di-core-overview"
             ]
-          }
-        ],
-        "anchors": [
-          {
-            "anchor": "DI Question Formats",
-            "href": "https://example.com/di-core/question-formats",
-            "icon": "layout"
-          },
-          {
-            "anchor": "Data Literacy Skills",
-            "href": "https://example.com/di-core/data-literacy",
-            "icon": "database"
-          },
-          {
-            "anchor": "Integrated Reasoning Tips",
-            "href": "https://example.com/di-core/ir-tips",
-            "icon": "settings"
           }
         ]
       },
@@ -131,23 +63,6 @@
               "symposium-intro"
             ]
           }
-        ],
-        "anchors": [
-          {
-            "anchor": "Latest Articles",
-            "href": "https://example.com/symposium/latest",
-            "icon": "rss"
-          },
-          {
-            "anchor": "Expert Interviews",
-            "href": "https://example.com/symposium/experts",
-            "icon": "users"
-          },
-          {
-            "anchor": "Deep Dive Topics",
-            "href": "https://example.com/symposium/deep-dives",
-            "icon": "search"
-          }
         ]
       },
       {
@@ -159,26 +74,28 @@
               "practice-center-overview"
             ]
           }
-        ],
-        "anchors": [
-          {
-            "anchor": "My Performance",
-            "href": "https://example.com/practice-center/my-performance",
-            "icon": "trending-up"
-          },
-          {
-            "anchor": "Custom Drills",
-            "href": "https://example.com/practice-center/custom-drills",
-            "icon": "tool"
-          },
-          {
-            "anchor": "Full-Length Tests Info",
-            "href": "https://example.com/practice-center/full-tests",
-            "icon": "clipboard"
-          }
         ]
       }
-    ]
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "What is GMAT Juice?",
+          "href": "https://example.com/why-gmat-juice",
+          "icon": "help-circle"
+        },
+        {
+          "anchor": "The Juicebox (Members)",
+          "href": "https://example.com/juicebox",
+          "icon": "zap"
+        },
+        {
+          "anchor": "Contact Support",
+          "href": "https://example.com/contact-support",
+          "icon": "mail"
+        }
+      ]
+    }
   },
   "logo": {
     "light": "/logo/light.svg",
