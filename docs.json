@@ -11,12 +11,33 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Juice Kickstart",
+        "tab": "Start Here",
         "groups": [
           {
-            "group": "Kickstart Introduction",
+            "group": "Getting Started",
             "pages": [
-              "kickstart-main"
+              "gmat-registration",
+              "baseline-test",
+              "score-analysis",
+              "custom-study-plan"
+            ]
+          },
+          {
+            "group": "Juice Guide",
+            "pages": [
+              "modules-overview",
+              "audio-guides",
+              "ai-features",
+              "discord-community"
+            ]
+          },
+          {
+            "group": "For Fun",
+            "pages": [
+              "playlists",
+              "product-roadmap",
+              "affiliates-partners",
+              "school-rankings"
             ]
           }
         ]
