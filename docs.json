@@ -4,20 +4,6 @@
   "theme": "mint",
   "banner": {
   "content": "🚀 Banner is live! [Learn more](mintlify.com)"
-},
-  "fonts": {
-    "heading": {
-      "family": "Outfit",
-      "weight": 700,
-      "source": "https://fonts.google.com/specimen/Outfit",
-      "format": "woff2"
-    },
-    "body": {
-      "family": "Outfit",
-      "weight": 400,
-      "source": "https://fonts.google.com/specimen/Outfit",
-      "format": "woff2"
-    }
   },
 
   "colors": {
