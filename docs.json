@@ -2,7 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "name": "GMAT Juice",
   "theme": "mint",
-  "heading": {
+  "banner": {
   "content": "🚀 Banner is live! [Learn more](mintlify.com)"
 },
   "colors": {
