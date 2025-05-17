@@ -14,31 +14,64 @@
         "tab": "GMAT Juice Kickstart",
         "groups": [
           {
-            "group": "Kickstart Introduction",
+            "group": "Kickstart Overview",
             "pages": [
-              "kickstart-intro"
+              "kickstart-main"
             ]
           }
         ]
       },
       {
-        "tab": "Quantitative Reasoning",
+        "tab": "Core Study Skills",
         "groups": [
           {
-            "group": "Quantitative Overview",
+            "group": "Study Skills Introduction",
             "pages": [
-              "quant-core-overview"
+              "study-skills-intro"
             ]
           }
         ]
       },
       {
-        "tab": "Verbal Reasoning",
+        "tab": "Quantitative Foundations",
         "groups": [
           {
-            "group": "Verbal Overview",
+            "group": "Quant Foundations Overview",
             "pages": [
-              "verbal-core-overview"
+              "quant-foundations-main"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Quantitative Strategies",
+        "groups": [
+          {
+            "group": "Quant Strategies Introduction",
+            "pages": [
+              "quant-strategies-main"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Reading Comprehension",
+        "groups": [
+          {
+            "group": "RC Overview",
+            "pages": [
+              "rc-main"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Critical Reasoning",
+        "groups": [
+          {
+            "group": "CR Overview",
+            "pages": [
+              "cr-main"
             ]
           }
         ]
