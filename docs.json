@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "GMAT Juice Kickstart",
+        "tab": "Juice Kickstart",
         "groups": [
           {
-            "group": "Kickstart Overview",
+            "group": "Kickstart Introduction",
             "pages": [
               "kickstart-main"
             ]
@@ -25,7 +25,7 @@
         "tab": "Core Study Skills",
         "groups": [
           {
-            "group": "Study Skills Introduction",
+            "group": "Essential Study Skills",
             "pages": [
               "study-skills-intro"
             ]
@@ -36,7 +36,7 @@
         "tab": "Quantitative Foundations",
         "groups": [
           {
-            "group": "Quant Foundations Overview",
+            "group": "Quantitative Concepts",
             "pages": [
               "quant-foundations-main"
             ]
@@ -47,7 +47,7 @@
         "tab": "Quantitative Strategies",
         "groups": [
           {
-            "group": "Quant Strategies Introduction",
+            "group": "Quantitative Techniques",
             "pages": [
               "quant-strategies-main"
             ]
@@ -58,7 +58,7 @@
         "tab": "Reading Comprehension",
         "groups": [
           {
-            "group": "RC Overview",
+            "group": "Comprehension Overview",
             "pages": [
               "rc-main"
             ]
@@ -69,7 +69,7 @@
         "tab": "Critical Reasoning",
         "groups": [
           {
-            "group": "CR Overview",
+            "group": "Reasoning Overview",
             "pages": [
               "cr-main"
             ]
@@ -80,7 +80,7 @@
         "tab": "Data Insights",
         "groups": [
           {
-            "group": "Data Insights Overview",
+            "group": "Data Insights Introduction",
             "pages": [
               "di-core-overview"
             ]
@@ -99,7 +99,7 @@
         ]
       },
       {
-        "tab": "Practice & Progress",
+        "tab": "Practice Center",
         "groups": [
           {
             "group": "Practice Overview",
